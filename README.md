@@ -22,19 +22,19 @@ The goal was to transform raw sales data into actionable insights for three key 
 
 ### 1. Executive Dashboard (C-Suite)
 *Designed for quick decision-making, focusing on high-level trends and financial health.*
-![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Images/Executive%20Dashboard.png)
 * **Key Insight:** Revenue has grown 12% Year-over-Year, with the US market driving the majority of profitability.
 * **Feature:** A "PnL Waterfall Chart" visualizes exactly how revenue converts to net profit.
 
 ### 2. Products Dashboard (Manager View)
 *Focused on inventory optimization and profitability analysis.*
-![Products Dashboard](Screenshots/Products%20Dashboard.png)
+![Products Dashboard](Images/Products%20Dashboard.png)
 * **Key Insight:** Pareto Analysis (80/20 Rule) revealed that **28% of products generate 80% of revenue**.
 * **Action:** Identified a "Kill List" of 15 products with negative profit margins to be discontinued.
 
 ### 3. Marketing Dashboard (Marketing View)
 *Focused on customer demographics and geographic targeting.*
-![Marketing Dashboard](Screenshots/Marketing%20Dashboard.png)
+![Marketing Dashboard](Images/Marketing%20Dashboard.png)
 * **Key Insight:** The core customer demographic is **Males aged 30-50** living in major metropolitan areas.
 * **Feature:** Interactive map drilling down into specific high-value cities.
 
@@ -47,4 +47,4 @@ Based on the analysis, the following actions are recommended:
 ## 📂 File Structure
 * `Data/`: Contains the raw CSV files (Sales, Products, Customers).
 * `Dashboard/`: The final Power BI file (`GlobalElec_Analysis.pbix`).
-* `Screenshots/`: Images used in this README.
+* `Images/`: Screenshots used in this README.
